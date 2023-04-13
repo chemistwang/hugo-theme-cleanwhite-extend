@@ -17,5 +17,3 @@ $$\hat{y} =x\  \times w\  +\  b$$
 ```
 
 `$$\hat{y} =x\  \times w\  +\  b$$`
-
-> MacOS 用户推荐 `App Store` 的 `XFormula` 编写并输出 `Latex`
